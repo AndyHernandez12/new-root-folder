@@ -3,59 +3,92 @@
     color: #FFFFFF;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1366px;
+    max-width: 1400px;
     max-height: 800px;
     padding-right: auto;
     padding-left: auto;
     width: 1366px;
     height: 768px;
+    background-color: #000000;
 }
 body {
     width: 1366px;
     height: 768px;
     max-width: 1400px;
-    max-height: 800px;
-    background-color: #000080;
+    max-height: 1400px;
+    background-color: #000000;
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
     padding-left: auto;
+    text-align: center;
 }
 .page-header {
-    background-color: #FFFFFF;
+    background-color: #000000;
     width: 1366px;
     height: 90px;
     margin-top: 5;
     margin-bottom: 5;
-    padding-top: 5;
-    padding-bottom: 5;
+    padding-top: 10px;
     max-height: 90px;
-    color: #000000;
+    color: #FFFFFF;
     max-width: 1366px;
     padding-right: auto;
     padding-left: auto;
     margin-right: auto;
     margin-left: auto;
+    font-family: Anurati, "AXIS Extra Bold";
+    font-size: 40px;
+    text-align: center;
+    background-position: 52% 46%;
+    background-image: url(assets/images/clean-template-1.png);
 }
 .page-nav {
     margin: 1;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Anurati, "AXIS Extra Bold";
+    font-size: 23px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    background-color: #000000;
 }
 .page-content {
     width: 663px;
     height: 620px;
-    background-color: #960001;
+    background-color: #000000;
     float: left;
     padding-left: 5px;
     padding-right: 5px;
     margin-right: 5px;
     margin-left: 5px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+    font-family: axis;
+    font-size: 20px;
+    line-height: 93px;
+    background-image: url(assets/images/low-angle-view-of-spiral-staircase-against-black-background-247676.jpg);
+    background-position: 79% 51%;
 
 
 }
 .page-footer {
-    width: 1366px;
+    width: 1346px;
     clear: both;
-    height: 35px;
+    height: 55px;
+    background-color: #000000;
+    text-align: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin-left: 5px;
+    color: #FFFFFF;
+    font-family: axis;
+    font-size: 13px;
+    background-image: url(assets/images/clean-template-2.png.jpg);
+    background-position: 0% 69%;
+    margin-top: 10px;
 
 
 }

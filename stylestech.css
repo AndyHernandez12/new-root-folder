@@ -1,0 +1,66 @@
+@charset "utf-8";
+.page-header {
+    width: 1339px;
+    max-width: 1400px;
+    max-height: 800px;
+    background-color: #FFFFFF;
+    height: 60px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    font-family: Anurati, "AXIS Extra Bold";
+    font-size: 40px;
+    background-position: 26% 16%;
+    color: #000000;
+    text-shadow: 0 0;
+    letter-spacing: 15px;
+}
+.page-nav {
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Anurati, "AXIS Extra Bold";
+    text-align: center;
+    font-size: 23px;
+    background-position: 25% 22%;
+    color: #808080;
+    width: 1339px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    text-shadow: 0 0 #000000;
+}
+.page-aside {
+    background-color: #FFFFFF;
+    width: 530px;
+    max-width: 600px;
+    max-height: 800px;
+    padding-right: auto;
+    padding-left: auto;
+    height: 675px;
+    margin-top: -674px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: #000000;
+    font-family: axis;
+    background-position: 69% 54%;
+    background-image: url(assets/images/low-angle-view-of-spiral-staircase-against-black-background-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-content {
+    width: 800px;
+    background-color: #FFFFFF;
+    color: #000000;
+    height: 675px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+    font-family: axis;
+    background-position: 13% 54%;
+}
+.page-aside1 {
+}
